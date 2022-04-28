@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/ObedientWillingHamster-size_restricted.gif" width="300" height="300" />
 
-My name is André and I am a studying **Full Stack Web Development** at **Driven Education**. I come from a Mechanical Engineering graduation and i'm currently working in this area, but, from the experience i'm having with Driven, i'm looking forward to entering and developing myself in the tech market.
+My name is André and I am a studying **Full Stack Web Development** at **Driven Education**. I come from a Mechanical Engineering graduation and i'm currently working in this area, but, from the experience i'm having with Driven, i'm looking forward to entering and developing myself in the tech market. I don't know why but everytime i think about <img alt="Node.js" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> I get euphoric. I think it'll be my first focus in the area.
 
 I belong to the 6th bootcamp class where all the previus classes had outstanding results. By now, we went through almost 7 weeks of learning, in which we got to face multiple projects in the first module of front-end applications, which contained parts of **<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />, <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> and <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />.**
 

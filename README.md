@@ -18,7 +18,13 @@ Although the front-end modules were very exciting, the more we got into back-end
 
 ### You can also find me at:
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br/>
+      
+### Code and GitHub Stats
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezopo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@andrezopo&theme=dark&show_icons=true&layout=compact&langs_count=5"/>
+</div>
 
 <!--
 **andrezopo/andrezopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

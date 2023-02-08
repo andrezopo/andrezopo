@@ -8,7 +8,7 @@ Nesse bootcamp, fiz parte da sexta turma, sendo que os alunos de todas as turmas
 
 - 🔭 Atualmente, estou trabalhando em um projeto autoral da área fitness e em minha gestão do tempo.
 - 👯 Em breve, busco colaborar com projetos de portfólio e páginas web para minha família e cursar uma especialização na área de tecnologia.
-- 🤔 Um ponto que busco melhorar é em relação à dificuldade em pedir ajuda. 😄
+- 🤔 Um ponto que busco melhorar é minha comunicação em público. 😄
 - 💬 Me pergunte sobre nutrição e fisiculturismo.
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Fato engraçado: Algumas pessoas me acham peculiar kkkkk.
